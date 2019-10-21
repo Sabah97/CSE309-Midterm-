@@ -1,1 +1,33 @@
-/* Add your styles here */
+#indigo {
+  background-color: indigo;
+}
+#blue {
+  background-color: blue;
+}
+#green {
+  background-color: green;
+}
+#yellow {
+  background-color: yellow;
+}
+#orange {
+  background-color: orange;
+}
+#red {
+  background-color: red;
+}
+#white {
+  background-color: white;
+  border: black solid 1px;
+}
+
+#violet {
+  background-color: violet;
+}
+
+#div {
+  /* background-color; */
+  width: 5%;
+  height: 100px;
+  /* border: black solid 1px; */
+}
